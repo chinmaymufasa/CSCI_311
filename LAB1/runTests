@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#./runTests <executable> <directory with test files>
+
+for f in "$2"/*.in
+do
+  outfile=$(basename -- "$f")
+  extension="${outfile##*.}"
+  outfile="${outfile%.*}.test"
+  echo "Running test $f"
+  ./"$1" < "$f" > $outfile
+done
+
+echo "DONE"
