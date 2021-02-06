@@ -1,4 +1,3 @@
-//Tests 1
 // CSCI 311 - Spring 2021
 // Lab 2
 // Author: Chinmay Satpanthi
@@ -26,20 +25,47 @@ int rFib(int n){
   return rFib(n - 1) + rFib(n - 2);
 }
 
+int rSumHelper(const vector<int> &v, int i){
+  if (i >= v.size() - 1){
+    return v[i];
+  }
+  return v[i] + rSumHelper(v, i + 1);
+
+}
+
 int rSum(const vector<int> &v){
   if (v.size() == 0){
     return 0;
   }
-  return rSum(());
-  return 0;
+  if (v.size() == 1){
+    return v[0];
+  }
+  return  v[0] + rSumHelper(v, 1);
 }
 
-int helperFunction(int n){
+int rMaxHelper(const vector<int> &v, int i){
+  if (i >= v.size()){
+    return 0;
+  }
+  if (v[i] > v[i - 1]){
     
+    return v[i];
+  }
+  else
+    return v[i-1];
 }
 
 int rMax(const vector<int> &v){
-  return 0;
+  if (v.empty()){
+    return INT_MIN;
+  }
+  if (v.size() == 0){
+    return 0;  
+  }
+  if (v.size() == 1){
+    return v[0];
+  }  
+  return rMaxHelper(v, 1);
 }
 
 bool isSorted(const vector<int> &v, int start, int end){
