@@ -1,0 +1,5 @@
+﻿  LAB2_PC.cpp
+C:\Users\Chinmay Satpanthi\source\repos\LAB2_PC\LAB2_PC\LAB2_PC.cpp(30,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\LAB2_PC\LAB2_PC\LAB2_PC.cpp(48,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\LAB2_PC\LAB2_PC\LAB2_PC.cpp(85): warning C4715: 'isSorted': not all control paths return a value
+  LAB2_PC.vcxproj -> C:\Users\Chinmay Satpanthi\source\repos\LAB2_PC\Debug\LAB2_PC.exe

@@ -1,0 +1,5 @@
+﻿  BST_skeleton.cpp
+C:\Users\Chinmay Satpanthi\source\repos\Lab_3\BST_skeleton.cpp(53): warning C4715: 'BST::minimum': not all control paths return a value
+C:\Users\Chinmay Satpanthi\source\repos\Lab_3\BST_skeleton.cpp(28): warning C4715: 'BST::search': not all control paths return a value
+C:\Users\Chinmay Satpanthi\source\repos\Lab_3\BST_skeleton.cpp(65): warning C4715: 'BST::maximum': not all control paths return a value
+  Lab_3.vcxproj -> C:\Users\Chinmay Satpanthi\source\repos\Lab_3\Debug\Lab_3.exe

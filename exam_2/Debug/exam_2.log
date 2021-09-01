@@ -1,0 +1,11 @@
+﻿  exam_2.cpp
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(127,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(200,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(201,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(216,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(217,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(276,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\exam_2.cpp(306,25): warning C4018: '<': signed/unsigned mismatch
+exam_2.obj : error LNK2019: unresolved external symbol "public: __thiscall BST::BST(class std::vector<int,class std::allocator<int> > const &)" (??0BST@@QAE@ABV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function _main
+exam_2.obj : error LNK2019: unresolved external symbol "public: void __thiscall BST::preOrder(class Node *,class std::vector<class Node *,class std::allocator<class Node *> > &)" (?preOrder@BST@@QAEXPAVNode@@AAV?$vector@PAVNode@@V?$allocator@PAVNode@@@std@@@std@@@Z) referenced in function _main
+C:\Users\Chinmay Satpanthi\source\repos\exam_2\Debug\exam_2.exe : fatal error LNK1120: 2 unresolved externals

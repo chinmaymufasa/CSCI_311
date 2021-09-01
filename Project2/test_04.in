@@ -1,0 +1,13 @@
+0 1 departing false 100
+1 2 departing true 100
+2 3 departing true 100
+3 4 departing true 100
+4 5 departing true 100
+5 6 arriving true 100
+6 7 arriving true 100
+7 8 arriving false 100
+8 9 arriving false 100
+9 10 arriving false 100
+10 11 arriving true 10
+11 12 arriving true 10
+-1

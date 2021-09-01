@@ -1,0 +1,56 @@
+Time step 1
+         Entering Simulation
+                 1 1 arriving false 5
+                 1 2 arriving false 4
+                 1 3 arriving false 3
+                 1 4 arriving false 2
+                 1 5 arriving false 1
+                 1 6 arriving true 10
+         Runway A
+                 1 4 arriving false 2
+         Runway B
+                 1 6 arriving true 10
+Time step 2
+         Entering Simulation
+         Runway A
+                 1 3 arriving false 2
+         Runway B
+                 1 5 arriving true 0
+Time step 3
+         Entering Simulation
+         Runway A
+                 1 2 arriving false 2
+         Runway B
+                 1 1 arriving false 3
+Time step 11
+         Entering Simulation
+                 11 7 arriving true 10
+                 11 8 arriving true 0
+                 11 9 arriving false 100
+         Runway A
+                 11 7 arriving true 10
+         Runway B
+                 11 8 arriving true 0
+Time step 12
+         Entering Simulation
+         Runway A
+
+         Runway B
+                 11 9 arriving false 99
+Time step 15
+         Entering Simulation
+                 15 10 departure true 100
+                 15 11 arriving false 100
+                 15 12 arriving false 100
+         Runway A
+                 15 11 arriving false 100
+         Runway B
+                 15 12 arriving false 100
+Time step 19
+         Entering Simulation
+                 19 13 arriving true 10
+                 19 14 arriving true 10
+         Runway A
+                 19 13 arriving true 10
+         Runway B
+                 19 14 arriving true 10

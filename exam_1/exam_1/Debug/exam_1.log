@@ -1,0 +1,4 @@
+﻿  exam_1.cpp
+C:\Users\Chinmay Satpanthi\source\repos\exam_1\exam_1\exam_1.cpp(23,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam_1\exam_1\exam_1.cpp(195,25): warning C4018: '<': signed/unsigned mismatch
+  exam_1.vcxproj -> C:\Users\Chinmay Satpanthi\source\repos\exam_1\Debug\exam_1.exe

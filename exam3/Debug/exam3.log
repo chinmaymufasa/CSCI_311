@@ -1,0 +1,7 @@
+﻿  exam_3.cpp
+C:\Users\Chinmay Satpanthi\source\repos\exam3\exam_3.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam3\exam_3.cpp(197,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam3\exam_3.cpp(200,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam3\exam_3.cpp(203,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chinmay Satpanthi\source\repos\exam3\exam_3.cpp(206,25): warning C4018: '<': signed/unsigned mismatch
+  exam3.vcxproj -> C:\Users\Chinmay Satpanthi\source\repos\exam3\Debug\exam3.exe
